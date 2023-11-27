@@ -11,6 +11,8 @@
     <title>personal page</title>
 </head>
 <body>
-
+<h3>Имя:</h3>
+<h3>Ваша скидка:%</h3>
+<button>Выйти из аккаунта</button>
 </body>
 </html>
